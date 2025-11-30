@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+pillow
+opencv-python
+streamlit
+torch
+torchvision
+tensorflow
+transformers
+sentencepiece
+scikit-image
+joblib
